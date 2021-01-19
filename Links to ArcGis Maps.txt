@@ -1,0 +1,8 @@
+ArcGIS map links
+
+https://www.arcgis.com/apps/View/index.html?appid=4e9976871cd24a53b8b0b8e1477b0a6b
+https://www.arcgis.com/apps/View/index.html?appid=f6b412741bd049719e306190e5e0a074
+https://www.arcgis.com/apps/View/index.html?appid=a56b5b1dec7142e3a21db3e8243adca3
+https://www.arcgis.com/apps/View/index.html?appid=98fbe0f78ef74674b364bb75b7559a82
+https://www.arcgis.com/apps/Compare/index.html?appid=6d9b06e4a8ce458ea059e945ce373dbb
+https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=4442bfcf06e2432f8967028881be1b54
